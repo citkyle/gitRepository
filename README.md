@@ -1,2 +1,2 @@
-# gitRepository
+# pythonRepository
 Python Repository
